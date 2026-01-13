@@ -23,7 +23,7 @@ O script realiza o download automático dos arquivos `.zip` mensais, descompacta
 2. Instale as dependências necessárias via terminal:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 
 ```
 
